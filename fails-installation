@@ -1,0 +1,6 @@
+INSTALLATION FAILS
+update package.json dependency
+"grunt-mocha": "~0.4.15"
+
+OR 
+ npm install grunt-mocha --save-dev before npm install
